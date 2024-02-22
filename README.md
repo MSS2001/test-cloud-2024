@@ -2,7 +2,7 @@
 A test repository for cloud computing lectures
 
 *Cursiva*
-**Negritas***
+**Negritas**
 
 #Titulo
 ##Subtitulo
